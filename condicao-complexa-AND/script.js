@@ -1,7 +1,7 @@
 let idade = Number(prompt("Digite sua idade:"));
-let  = prompt("Possui CNH? (sim ou nao");
+let temCNH = prompt("Possui CNH? (sim ou nao");
 
-if (idade >= 18 && tem CNH === "sim") { 
+if (idade >= 18 && temCNH === "sim") { 
     alert("Pode dirigir");
 } else {
         alert("Não pode dirigir");
